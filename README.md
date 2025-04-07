@@ -2,7 +2,7 @@
 
 ### Project Description
 
-This project is developed using **Windows Form Application** and works with an existing database using the **ADO.NET** approach.
+This project was developed using **Windows Form Application** and works with an existing database using the **ADO.NET** approach.
 
 #### User Roles and Permissions
 
